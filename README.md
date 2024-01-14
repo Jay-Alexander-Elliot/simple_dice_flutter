@@ -1,4 +1,10 @@
-# Dicee 🎲 - Las Vegas Dice App
+# 🎲 - Las Vegas Dice App
+
+## Full Disclosure
+This code was adapted from another repo, but it was far too outdated for me to waste time adapting it.
+I ended up only using the idea and images from the previous course, everything else is mine.
+I'm most likely going to keep on adding changes as an exercise in learning.
+
 
 ## Project Insight
 
@@ -21,4 +27,4 @@ This project served as an introduction to fundamental programming concepts in Fl
 - Grasping basic Dart programming concepts, including data types and functions.
 - Implementing gesture controls for an interactive user experience.
 
-This project was instrumental in understanding the core aspects of Flutter app development, particularly in creating interactive and responsive UI components.
+This project was important in understanding the core aspects of Flutter app development, particularly in creating interactive and responsive UI components.
